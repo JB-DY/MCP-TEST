@@ -1,2 +1,1 @@
-# MCP-TEST
-Repository created via MCP tool for testing purposes.
+mcp 테스트
